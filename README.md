@@ -1,6 +1,9 @@
 # roll_slot
 
-A new Flutter application.
+Roll Slot is a popular game. This is built with flutter. Anyone willing to contribute to change the UI will be welcomed.
+
+# Demo
+
 
 ## Getting Started
 
